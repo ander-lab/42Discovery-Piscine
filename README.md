@@ -16,13 +16,15 @@
 ## Lenguajes de programación
 
 	# Shell / Bash
-			Durante los primeros días de la discovery, aprenderás a usar la terminal,
-			esto te ayudará a moverte mucho más rápido a la hora de programar. 
+			Durante los primeros días de la discovery, aprenderás a usar la 
+			terminal, esto te ayudará a moverte mucho más rápido a la hora 
+			de programar. 
 			El lenguaje Bash, te permitirá crear tus primeros programas y
 			automatizar tareas pequeñas.
 
 	- HTML5
-			El lenguaje más importante para una web, la estructura básica de toda página. Aprender este lenguaje te permitirá maquetar contenidos.
+			El lenguaje más importante para una web, la estructura básica de
+		    toda página. Aprender este lenguaje te permitirá maquetar contenidos.
 
 	- CSS
 		Cascading StyleSheets, se traduce como "Hojas de estilo en cascada".
@@ -30,8 +32,8 @@
 		y forma a la página.
 
 	- JavaScript
-		Este lenguaje te permite dar funcionalidades a la web,
-		programar acciones... en conclusión, añade interactividad a la web.
+		Este lenguaje te permite dar funcionalidades a la web, programar acciones...
+		en conclusión, añade interactividad a la web.
 		
 
 ![Diferencias](img/differences.png)
