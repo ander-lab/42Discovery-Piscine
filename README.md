@@ -11,9 +11,13 @@
 
 <!--FOTO 42 CEREBRO-->
 
-# Skills desarrolladas en la Piscine Discovery
+## Skills desarrolladas en la Piscine Discovery
+</br>
 
-## Lenguajes de programación
+### Lenguajes de programación
+</br>
+</br>
+
 
 	- Shell / Bash
 
