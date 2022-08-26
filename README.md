@@ -50,26 +50,18 @@
 
 </br>
 
-## Partes del proyecto
-</br>
-
-✅ [Cellule0 ](./Cellule0-Shell) -> Shell / Bash
-
-✅ [Cellule1 ](./Cellule1-Web) -> HTML y CSS
-
-✅ [Cellule2 ](./Cellule2-Web) -> HTML, CSS Y JAVASCRIPT
-
-✅ [Cellule3 ](./Cellule3-Web) -> HTML, CSS Y JAVASCRIPT
-
-✅ [Cellule4 ](./Cellule4-Rush) -> HTML, CSS Y JAVASCRIPT (RUSH)
-
-</br>
 
 # Tutoriales y recursos
 
+## EDITOR DE CÓDIGO
+
+Para esta piscina recomiendo utilizar Visual Studio Code [(VSCode)](https://code.visualstudio.com/), es un editor de código muy facil de aprender a utilizar, nos permitirá lanzar nuestro primer *"Hola Mundo"*.
+</br>
+</br>
+
 ## 	BASH / SHELL
 
-[Video - Cómo utilizar la TERMINAL](https://www.youtube.com/watch?v=yra-6WrYA_Y)
+[🟨 Video - Cómo utilizar la TERMINAL](https://www.youtube.com/watch?v=yra-6WrYA_Y)
 <details><summary style=font-weight:bold> Lista de Comandos Básicos Bash
 </summary>
 </br>
@@ -133,18 +125,14 @@
 </details>
 
 
-## EDITOR DE CÓDIGO
 
-Para esta piscina recomiendo utilizar Visual Studio Code [(VSCode)](https://code.visualstudio.com/), es un editor de código muy facil de aprender a utilizar, nos permitirá lanzar nuestro primer *"Hola Mundo"*.
-</br>
-</br>
 
 ## HTML y CSS
-[Video - Aprende HTML ahora!](https://www.youtube.com/watch?v=MJkdaVFHrto)
+[🟨 Video - Aprende HTML ahora!](https://www.youtube.com/watch?v=MJkdaVFHrto)
 
-[Video - Aprende CSS ahora!](https://www.youtube.com/watch?v=wZniZEbPAzk)
+[🟨 Video - Aprende CSS ahora!](https://www.youtube.com/watch?v=wZniZEbPAzk)
 
-[Web(Inglés) - Tutorial completo para principiantes HTML y CSS](https://www.internetingishard.com/html-and-css/)
+[📒 Web(Inglés) - Tutorial completo para principiantes HTML y CSS](https://www.internetingishard.com/html-and-css/)
 
 
 </br>
@@ -152,4 +140,21 @@ Para esta piscina recomiendo utilizar Visual Studio Code [(VSCode)](https://code
 ## JAVASCRIPT
 [🟨 CURSO DE JAVASCRIPT COMPLETO DESDE CERO en español (2022)](https://www.youtube.com/watch?v=S9ojNaeC1RI)
 
-[Aprende JavaScript en 15 Minutos 📒](https://www.youtube.com/watch?v=Q9fwkpxr3Dw)
+[🟨 Aprende JavaScript en 15 Minutos](https://www.youtube.com/watch?v=Q9fwkpxr3Dw)
+
+</br>
+
+# Módulos Piscina
+</br>
+
+✅ [Cellule0 ](./Cellule0-Shell) -> Shell / Bash
+
+✅ [Cellule1 ](./Cellule1-Web) -> HTML y CSS
+
+✅ [Cellule2 ](./Cellule2-Web) -> HTML, CSS Y JAVASCRIPT
+
+✅ [Cellule3 ](./Cellule3-Web) -> HTML, CSS Y JAVASCRIPT
+
+✅ [Cellule4 ](./Cellule4-Rush) -> HTML, CSS Y JAVASCRIPT (RUSH)
+
+</br>
