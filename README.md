@@ -11,8 +11,7 @@
 
 <!--FOTO 42 CEREBRO-->
 
-## Skills desarrolladas en la Piscine Discovery
-### Lenguajes de programación
+## Lenguajes de programación
 
 </br>
 
@@ -42,4 +41,38 @@
 		
 </br>
 
+<details><summary>Ejemplo visual diferencias entre HTML, CSS y JavaScript</summary>
+</br>
+
 ![Diferencias](img/differences.png)
+
+</details>
+
+</br>
+
+## Partes del proyecto
+
+<details><summary style=font-weight:bold> 🔸 Cellule0 -> Shell / Bash
+</summary>
+	[Cellule0](./Cellule0%20-%20Shell)
+</details>
+
+<details><summary style=font-weight:bold> 🔸 Cellule1 -> Html5 y CSS
+</summary>
+
+</details>
+
+<details><summary style=font-weight:bold>🔸 Cellule2 -> Hmtl5, CSS y Javascript
+</summary>
+
+</details>
+
+<details><summary style=font-weight:bold> 🔸 Cellule3 -> Hmtl5, CSS y Javascript
+</summary>
+
+</details>
+
+<details><summary style=font-weight:bold> 🔸 Cellule4 -> Rush
+</summary>
+
+</details>
