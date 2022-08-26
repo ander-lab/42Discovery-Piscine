@@ -51,28 +51,105 @@
 </br>
 
 ## Partes del proyecto
+</br>
 
-<details><summary style=font-weight:bold> 🔸 Cellule0 -> Shell / Bash
+✅ [Cellule0 ](./Cellule0-Shell) -> Shell / Bash
+
+✅ [Cellule1 ](./Cellule1-Web) -> HTML y CSS
+
+✅ [Cellule2 ](./Cellule2-Web) -> HTML, CSS Y JAVASCRIPT
+
+✅ [Cellule3 ](./Cellule3-Web) -> HTML, CSS Y JAVASCRIPT
+
+✅ [Cellule4 ](./Cellule4-Rush) -> HTML, CSS Y JAVASCRIPT (RUSH)
+
+</br>
+
+# Tutoriales y recursos
+
+## 	BASH / SHELL
+
+[Video - Cómo utilizar la TERMINAL](https://www.youtube.com/watch?v=yra-6WrYA_Y)
+<details><summary style=font-weight:bold> Lista de Comandos Básicos Bash
 </summary>
-	[Cellule0](./Cellule0%20-%20Shell)
+</br>
+
+<table>
+	<tbody>
+		<tr>
+			<td><strong>ls</strong></td>
+			<td>Lista directorios</td>
+		</tr>
+		<tr>
+			<td><strong>cd</strong></td>
+			<td>Cambia el directorio actual de trabajo</td>
+		</tr>
+		<tr>
+			<td><strong>cp</strong></td>
+			<td>Copia contenido desde un origen a un destino</td>
+		</tr>
+			<tr><td><strong>mkdir</strong></td>
+			<td>Crea un directorio</td></tr>
+		<tr>
+			<td><strong>rm</strong></td>
+			<td>Borra ficheros o directorios</td>
+		</tr>
+			<tr><td><strong>mv</strong></td>
+			<td>Mueve elementos o les cambia el nombre</td>
+		</tr>
+		<tr>
+			<td><strong>touch</strong></td>
+			<td>Crea un fichero vacío</td>
+		</tr>
+		<tr>
+			<td><strong>man</strong></td>
+			<td>Consulta la ayuda más común, las páginas man</td>
+		</tr>
+		<tr>
+		<tr>
+			<td><strong>clear</strong></td>
+			<td>borra la pantalla</td>
+		</tr>
+		<tr>
+			<td><strong>history</strong></td>
+			<td>Muestra las últimas instrucciones ejecutadas</td>
+		</tr>
+		<tr>
+			<td><strong>pwd</strong></td>
+			<td>Muestra el directorio actual de trabajo</td>
+		</tr>
+		<tr>
+			<td><strong>chmod</strong></td>
+			<td>cambia los permisos de un fichero o directorio</td>
+		</tr>
+		<tr>
+			<td><strong>cat</strong></td>
+			<td>Ver el contenido de un fichero de texto</td>
+		</tr>
+	</tbody>
+</table>
+</details>
+</br>
 </details>
 
-<details><summary style=font-weight:bold> 🔸 Cellule1 -> Html5 y CSS
-</summary>
 
-</details>
+## EDITOR DE CÓDIGO
 
-<details><summary style=font-weight:bold>🔸 Cellule2 -> Hmtl5, CSS y Javascript
-</summary>
+Para esta piscina recomiendo utilizar Visual Studio Code [(VSCode)](https://code.visualstudio.com/), es un editor de código muy facil de aprender a utilizar, nos permitirá lanzar nuestro primer *"Hola Mundo"*.
+</br>
+</br>
 
-</details>
+## HTML y CSS
+[Video - Aprende HTML ahora!](https://www.youtube.com/watch?v=MJkdaVFHrto)
 
-<details><summary style=font-weight:bold> 🔸 Cellule3 -> Hmtl5, CSS y Javascript
-</summary>
+[Video - Aprende CSS ahora!](https://www.youtube.com/watch?v=wZniZEbPAzk)
 
-</details>
+[Web(Inglés) - Tutorial completo para principiantes HTML y CSS](https://www.internetingishard.com/html-and-css/)
 
-<details><summary style=font-weight:bold> 🔸 Cellule4 -> Rush
-</summary>
 
-</details>
+</br>
+
+## JAVASCRIPT
+[🟨 CURSO DE JAVASCRIPT COMPLETO DESDE CERO en español (2022)](https://www.youtube.com/watch?v=S9ojNaeC1RI)
+
+[Aprende JavaScript en 15 Minutos 📒](https://www.youtube.com/watch?v=Q9fwkpxr3Dw)
