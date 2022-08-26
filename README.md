@@ -15,8 +15,8 @@
 
 ## Lenguajes de programación
 
-	# Shell / Bash
-	
+	- Shell / Bash
+
 		Durante los primeros días de la discovery, aprenderás a usar la 
 		terminal, esto te ayudará a moverte mucho más rápido a la hora 
 		de programar. 
