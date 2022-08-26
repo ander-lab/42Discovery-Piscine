@@ -16,8 +16,6 @@
 
 ### Lenguajes de programación
 </br>
-</br>
-
 
 	- Shell / Bash
 
@@ -43,5 +41,6 @@
 		Este lenguaje te permite dar funcionalidades a la web, programar acciones...
 		en conclusión, añade interactividad a la web.
 		
+</br>
 
 ![Diferencias](img/differences.png)
