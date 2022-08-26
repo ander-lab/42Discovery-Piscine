@@ -12,11 +12,8 @@
 <!--FOTO 42 CEREBRO-->
 
 ## Skills desarrolladas en la Piscine Discovery
-</br>
-
 ### Lenguajes de programación
 </br>
-
 	- Shell / Bash
 
 		Durante los primeros días de la discovery, aprenderás a usar la 
