@@ -151,7 +151,7 @@ Para esta piscina recomiendo utilizar Visual Studio Code [(VSCode)](https://code
 
 ✅ [Cellule1 ](./Cellule1-Web) -> HTML y CSS
 
-✅ [Cellule2 ](./Cellule2-Web) -> HTML, CSS Y JAVASCRIPT
+✅ [Cellule2 ](./Cellule2-Web) -> HTML y CSS
 
 ✅ [Cellule3 ](./Cellule3-Web) -> HTML, CSS Y JAVASCRIPT
 
