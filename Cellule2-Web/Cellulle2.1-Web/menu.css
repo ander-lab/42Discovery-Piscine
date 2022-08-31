@@ -1,0 +1,79 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  font-style: normal;
+  font-size: 40px;
+
+}
+
+/**************************************************************************
+								MENU ICON 
+**************************************************************************/
+
+#menu-square {
+  width: 100px;
+  height: 100px;
+  background-color: #989898;
+  border-radius: 10px;
+}
+
+#line-1 {
+  width: 85px;
+  height: 15px;
+  background: #eee;
+  border-radius: 10px;
+  position: absolute;
+  top: 25px;
+  left: 15px;
+}
+
+#line-2 {
+  width: 85px;
+  height: 15px;
+  background: #eee;
+  border-radius: 10px;
+  position: absolute;
+  top: 50px;
+  left: 15px;
+}
+#line-3 {
+  width: 85px;
+  height: 15px;
+  background: #eee;
+  border-radius: 10px;
+  position: absolute;
+  top: 75px;
+  left: 15px;
+}
+
+/**************************************************************************
+								BURGER DESIGN 
+**************************************************************************/
+
+
+#nav
+{
+   display: none;
+}
+
+#menu {
+   display: none;
+   text-align: center;
+   padding-top: 30px;
+   background: white;
+}
+
+#menu a {
+	padding-top: 20px;
+	display: block;
+	color: #989898;
+}
+
+
+#nav:checked + #menu {
+	display: block;
+}
+
+label div{
+	cursor: pointer;
+}
